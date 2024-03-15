@@ -1,6 +1,5 @@
 /node_modules
 /src/*.css
-dist/
 /*.css
 /.DS_Store
 /.env
